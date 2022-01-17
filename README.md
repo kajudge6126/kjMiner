@@ -1,0 +1,3 @@
+# kjMiner
+
+QBCore Miner Job
